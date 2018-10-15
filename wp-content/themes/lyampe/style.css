@@ -1,0 +1,29 @@
+/*!
+Theme Name: Lyampe
+Theme URI: https://greenturtlelab.com/downloads/gtl-multipurpose/
+Author: Greenturtlelab
+Author URI: http://www.greenturtlelab.com/
+Description: Lyampe is a simple, beautifully designed responsive multipuropose WordPress theme. This theme can be easily customized to make business, corporate, yoga, blog, construction, education, portfolio, travel and tour, news, beauty, fitness and many more websites. We support via online chat, email, support forum.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: lyampe
+Template: gtl-multipurpose
+Tags: blog, one-column, two-columns, left-sidebar, right-sidebar, custom-header, custom-background, custom-logo, custom-menu, custom-colors, threaded-comments, translation-ready, featured-images, theme-options, full-width-template, e-commerce, portfolio
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+@media (min-width: 1281px) {
+.slide1 .flex_caption1, .top_slider .slide2 .flex_caption1 {
+    margin-left: -600px !important;
+}
+}
+.top_slider .slide1 .flex_caption1 .title1,.top_slider .slide1 .flex_caption1 .title2, .top_slider .slide1 .flex_caption1 .title3{
+	font-size: 55px !important;
+}
+
+p.title2.captionDelay4.FromTop{
+	margin: 0 10px;
+}

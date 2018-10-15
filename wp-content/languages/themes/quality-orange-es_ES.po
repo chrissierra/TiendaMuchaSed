@@ -1,0 +1,44 @@
+# Translation of Themes - Quality orange in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Quality orange package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-29 23:02:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Quality orange\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate or business website. Quality Orange is a colored-variation child theme of Quality. Quality Orange comes with various locales."
+msgstr "Un tema para negocios ideal para crear un sitio web corporativo o empresarial. Quality Orange es un tema hijo, variante de color, del tema Quality. Quality Orange viene en varios idiomas."
+
+#. Theme Name of the plugin/theme
+msgid "Quality orange"
+msgstr "Quality orange"
+
+#. Template Name of the plugin/theme
+msgid "Blog Full Width"
+msgstr "Blog ancho completo"
+
+#. Template Name of the plugin/theme
+msgid "Blog Right Sidebar"
+msgstr "Blog barra lateral derecha"
+
+#. Template Name of the plugin/theme
+msgid "Blog Left Sidebar"
+msgstr "Blog barra lateral izquierda"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/quality-orange-child-version-details-page/"
+msgstr "https://webriti.com/quality-orange-child-version-details-page/"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"

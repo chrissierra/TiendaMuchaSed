@@ -1,0 +1,45 @@
+2018-10-14T21:27:15+00:00 CRITICAL Uncaught Error: Call to undefined method WSSecuritySoapClient::initTransaction() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php(184): WebPayNormal->_initTransaction(Array)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(406): WebPayNormal->initTransaction(9990, '5bc3b4b3636ae', '_prueba_', 'https://webpay3...')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(431): HealthCheck->setInitTransaction()
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(481): HealthCheck->getFullResume()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\class-wc-transbank.php(88): HealthCheck->printFullResume()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(10
+
+2018-10-14T21:27:21+00:00 CRITICAL Uncaught Error: Call to undefined method WSSecuritySoapClient::initTransaction() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php(184): WebPayNormal->_initTransaction(Array)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(406): WebPayNormal->initTransaction(9990, '5bc3b4b9c3893', '_prueba_', 'https://webpay3...')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(431): HealthCheck->setInitTransaction()
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(481): HealthCheck->getFullResume()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\class-wc-transbank.php(88): HealthCheck->printFullResume()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(10
+
+2018-10-14T21:28:47+00:00 CRITICAL Uncaught Error: Call to undefined method WSSecuritySoapClient::initTransaction() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php(184): WebPayNormal->_initTransaction(Array)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(406): WebPayNormal->initTransaction(9990, '5bc3b50fdc436', '_prueba_', 'https://webpay3...')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(431): HealthCheck->setInitTransaction()
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(481): HealthCheck->getFullResume()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\class-wc-transbank.php(88): HealthCheck->printFullResume()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(10
+
+2018-10-14T21:37:18+00:00 CRITICAL Uncaught Error: Call to undefined method WSSecuritySoapClient::initTransaction() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php(184): WebPayNormal->_initTransaction(Array)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(406): WebPayNormal->initTransaction(9990, '5bc3b70e29d1d', '_prueba_', 'https://webpay3...')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(431): HealthCheck->setInitTransaction()
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(481): HealthCheck->getFullResume()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\class-wc-transbank.php(88): HealthCheck->printFullResume()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(10
+
+2018-10-14T21:38:03+00:00 CRITICAL Uncaught Error: Call to undefined method WSSecuritySoapClient::initTransaction() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\webpay-normal.php(184): WebPayNormal->_initTransaction(Array)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(406): WebPayNormal->initTransaction(9990, '5bc3b73b4850a', '_prueba_', 'https://webpay3...')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(431): HealthCheck->setInitTransaction()
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\libwebpay\healthcheck.php(481): HealthCheck->getFullResume()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-transbank\class-wc-transbank.php(88): HealthCheck->printFullResume()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(10
+

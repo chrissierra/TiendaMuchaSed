@@ -1,0 +1,419 @@
+# Translation of Plugins - WooCommerce Gutenberg Products Block - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Gutenberg Products Block - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-20 18:54:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Gutenberg Products Block - Stable (latest release)\n"
+
+#: includes/class-wgpb-products-controller.php:772
+msgid "Meta value."
+msgstr "Valor meta."
+
+#: includes/class-wgpb-products-controller.php:767
+msgid "Meta key."
+msgstr "Clave meta."
+
+#: includes/class-wgpb-products-controller.php:761
+msgid "Meta ID."
+msgstr "ID meta."
+
+#: includes/class-wgpb-products-controller.php:754
+msgid "Meta data."
+msgstr "Datos meta."
+
+#: includes/class-wgpb-products-controller.php:749
+msgid "Menu order, used to custom sort products."
+msgstr "Orden en el menú, utilizado para ordenar los productos."
+
+#: includes/class-wgpb-products-controller.php:740
+msgid "List of grouped products ID."
+msgstr "Lista de ID de productos agrupados."
+
+#: includes/class-wgpb-products-controller.php:731
+msgid "List of variations IDs."
+msgstr "Lista de IDs de variaciones."
+
+#: includes/class-wgpb-products-controller.php:723
+msgid "Selected attribute term name."
+msgstr "Nombre del término de atributo seleccionado."
+
+#: includes/class-wgpb-products-controller.php:706
+msgid "Defaults variation attributes."
+msgstr "Atributos de variación por defecto."
+
+#: includes/class-wgpb-products-controller.php:695
+msgid "List of available term names of the attribute."
+msgstr "Lista de nombres de términos disponibles del atributo."
+
+#: includes/class-wgpb-products-controller.php:689
+msgid "Define if the attribute can be used as variation."
+msgstr "Define si el atributo puede usarse como variación."
+
+#: includes/class-wgpb-products-controller.php:683
+msgid "Define if the attribute is visible on the \"Additional information\" tab in the product's page."
+msgstr "Define si el atributo es visible en la pestaña \"Información adicional\" en la página del producto."
+
+#: includes/class-wgpb-products-controller.php:678
+msgid "Attribute position."
+msgstr "Posición del atributo."
+
+#: includes/class-wgpb-products-controller.php:673
+#: includes/class-wgpb-products-controller.php:718
+msgid "Attribute name."
+msgstr "Nombre del atributo."
+
+#: includes/class-wgpb-products-controller.php:668
+#: includes/class-wgpb-products-controller.php:713
+msgid "Attribute ID."
+msgstr "ID del atributo."
+
+#: includes/class-wgpb-products-controller.php:661
+msgid "List of attributes."
+msgstr "Lista de atributos."
+
+#: includes/class-wgpb-products-controller.php:653
+msgid "Image alternative text."
+msgstr "Texto alternativo de la imagen."
+
+#: includes/class-wgpb-products-controller.php:648
+msgid "Image name."
+msgstr "Nombre de la imagen."
+
+#: includes/class-wgpb-products-controller.php:642
+msgid "Image URL."
+msgstr "URL de la imagen."
+
+#: includes/class-wgpb-products-controller.php:636
+msgid "The date the image was last modified, as GMT."
+msgstr "La fecha en que la imagen se modificó por última vez, en GMT."
+
+#: includes/class-wgpb-products-controller.php:630
+msgid "The date the image was last modified, in the site's timezone."
+msgstr "La fecha en que la imagen se modificó por última vez, en la zona horaria del sitio."
+
+#: includes/class-wgpb-products-controller.php:624
+msgid "The date the image was created, as GMT."
+msgstr "La fecha en que se creó la imagen, en GMT."
+
+#: includes/class-wgpb-products-controller.php:618
+msgid "The date the image was created, in the site's timezone."
+msgstr "La fecha en que se creó la imagen, en la zona horaria del sitio."
+
+#: includes/class-wgpb-products-controller.php:613
+msgid "Image ID."
+msgstr "ID de la imagen."
+
+#: includes/class-wgpb-products-controller.php:606
+msgid "List of images."
+msgstr "Lista de imágenes."
+
+#: includes/class-wgpb-products-controller.php:597
+msgid "Tag slug."
+msgstr "Slug de la etiqueta."
+
+#: includes/class-wgpb-products-controller.php:591
+msgid "Tag name."
+msgstr "Nombre de la etiqueta."
+
+#: includes/class-wgpb-products-controller.php:586
+msgid "Tag ID."
+msgstr "ID de la etiqueta."
+
+#: includes/class-wgpb-products-controller.php:579
+msgid "List of tags."
+msgstr "Lista de etiquetas."
+
+#: includes/class-wgpb-products-controller.php:570
+msgid "Category slug."
+msgstr "Slug de la categoría."
+
+#: includes/class-wgpb-products-controller.php:564
+msgid "Category name."
+msgstr "Nombre de la categoría."
+
+#: includes/class-wgpb-products-controller.php:559
+msgid "Category ID."
+msgstr "ID de la categoría."
+
+#: includes/class-wgpb-products-controller.php:552
+msgid "List of categories."
+msgstr "Lista de categorías."
+
+#: includes/class-wgpb-products-controller.php:547
+msgid "Optional note to send the customer after purchase."
+msgstr "Nota opcional para enviar al cliente tras la compra."
+
+#: includes/class-wgpb-products-controller.php:542
+msgid "Product parent ID."
+msgstr "ID del producto superior."
+
+#: includes/class-wgpb-products-controller.php:534
+msgid "List of cross-sell products IDs."
+msgstr "Lista de IDs de productos de venta cruzada."
+
+#: includes/class-wgpb-products-controller.php:526
+msgid "List of up-sell products IDs."
+msgstr "Lista de IDs de productos de venta dirigida."
+
+#: includes/class-wgpb-products-controller.php:517
+msgid "List of related products IDs."
+msgstr "Lista de IDs de productos relacionados."
+
+#: includes/class-wgpb-products-controller.php:511
+msgid "Amount of reviews that the product have."
+msgstr "Cantidad de valoraciones que tiene el producto."
+
+#: includes/class-wgpb-products-controller.php:505
+msgid "Reviews average rating."
+msgstr "Puntuación promedio de las valoraciones."
+
+#: includes/class-wgpb-products-controller.php:499
+msgid "Allow reviews."
+msgstr "Permitir valoraciones."
+
+#: includes/class-wgpb-products-controller.php:493
+msgid "Shipping class ID."
+msgstr "ID de la clase de envío."
+
+#: includes/class-wgpb-products-controller.php:488
+msgid "Shipping class slug."
+msgstr "Slug de la clase de envío."
+
+#: includes/class-wgpb-products-controller.php:482
+msgid "Shows whether or not the product shipping is taxable."
+msgstr "Muestra si el envío del producto está sujeto a impuestos o no."
+
+#: includes/class-wgpb-products-controller.php:476
+msgid "Shows if the product need to be shipped."
+msgstr "Muestra si hay que enviar el producto."
+
+#. translators: %s: dimension unit
+#: includes/class-wgpb-products-controller.php:469
+msgid "Product height (%s)."
+msgstr "Altura del producto (%s)."
+
+#. translators: %s: dimension unit
+#: includes/class-wgpb-products-controller.php:463
+msgid "Product width (%s)."
+msgstr "Ancho del producto (%s)."
+
+#. translators: %s: dimension unit
+#: includes/class-wgpb-products-controller.php:457
+msgid "Product length (%s)."
+msgstr "Longitud del producto (%s)."
+
+#: includes/class-wgpb-products-controller.php:451
+msgid "Product dimensions."
+msgstr "Dimensiones del producto."
+
+#. translators: %s: weight unit
+#: includes/class-wgpb-products-controller.php:446
+msgid "Product weight (%s)."
+msgstr "Peso del producto (%s)."
+
+#: includes/class-wgpb-products-controller.php:439
+msgid "Allow one item to be bought in a single order."
+msgstr "Permite comprar solo un producto por pedido."
+
+#: includes/class-wgpb-products-controller.php:433
+msgid "Shows if the product is on backordered."
+msgstr "Muestra si el producto está reservado."
+
+#: includes/class-wgpb-products-controller.php:427
+msgid "Shows if backorders are allowed."
+msgstr "Muestra si se permiten reservas."
+
+#: includes/class-wgpb-products-controller.php:420
+msgid "If managing stock, this controls if backorders are allowed."
+msgstr "Si hay gestión de inventario, esto controla si se permiten reservas."
+
+#: includes/class-wgpb-products-controller.php:414
+msgid "Controls whether or not the product is listed as \"in stock\" or \"out of stock\" on the frontend."
+msgstr "Controla si el producto se muestra como \"hay existencias\" o \"agotado\" o no en la tienda."
+
+#: includes/class-wgpb-products-controller.php:409
+msgid "Stock quantity."
+msgstr "Cantidad de inventario."
+
+#: includes/class-wgpb-products-controller.php:403
+msgid "Stock management at product level."
+msgstr "Gestión de inventario por producto."
+
+#: includes/class-wgpb-products-controller.php:398
+msgid "Tax class."
+msgstr "Clase de impuestos."
+
+#: includes/class-wgpb-products-controller.php:391
+msgid "Tax status."
+msgstr "Estado de impuestos."
+
+#: includes/class-wgpb-products-controller.php:386
+msgid "Product external button text. Only for external products."
+msgstr "Texto del botón de producto externo. Solo para los productos externos."
+
+#: includes/class-wgpb-products-controller.php:380
+msgid "Product external URL. Only for external products."
+msgstr "URL del producto externo. Solo para los productos externos."
+
+#: includes/class-wgpb-products-controller.php:374
+msgid "Number of days until access to downloadable files expires."
+msgstr "Número de días hasta que caduque el acceso a los archivos descargables."
+
+#: includes/class-wgpb-products-controller.php:368
+msgid "Number of times downloadable files can be downloaded after purchase."
+msgstr "Número de veces que se pueden descargar los archivos descargables tras la compra."
+
+#: includes/class-wgpb-products-controller.php:360
+msgid "File URL."
+msgstr "URL del archivo."
+
+#: includes/class-wgpb-products-controller.php:355
+msgid "File name."
+msgstr "Nombre del archivo."
+
+#: includes/class-wgpb-products-controller.php:349
+msgid "File MD5 hash."
+msgstr "Hash MD5 del archivo."
+
+#: includes/class-wgpb-products-controller.php:342
+msgid "List of downloadable files."
+msgstr "Lista de archivos descargables."
+
+#: includes/class-wgpb-products-controller.php:336
+msgid "If the product is downloadable."
+msgstr "Si el producto es descargable."
+
+#: includes/class-wgpb-products-controller.php:330
+msgid "If the product is virtual."
+msgstr "Si el producto es virtual."
+
+#: includes/class-wgpb-products-controller.php:318
+msgid "Shows if the product can be bought."
+msgstr "Muestra si se puede comprar el producto."
+
+#: includes/class-wgpb-products-controller.php:312
+msgid "Shows if the product is on sale."
+msgstr "Muestra si el producto está rebajado."
+
+#: includes/class-wgpb-products-controller.php:324
+msgid "Amount of sales."
+msgstr "Cantidad de las ofertas."
+
+#: includes/class-wgpb-products-controller.php:306
+msgid "Price formatted in HTML."
+msgstr "Precio en formato HTML."
+
+#: includes/class-wgpb-products-controller.php:296
+#: includes/class-wgpb-products-controller.php:301
+msgid "End date of sale price, in the site's timezone."
+msgstr "Fecha de finalización del precio rebajado, en la zona horaria del sitio."
+
+#: includes/class-wgpb-products-controller.php:291
+msgid "Start date of sale price, as GMT."
+msgstr "Fecha de inicio del precio rebajado, en GMT"
+
+#: includes/class-wgpb-products-controller.php:286
+msgid "Start date of sale price, in the site's timezone."
+msgstr "Fecha de inicio del precio rebajado, en la zona horaria del sitio."
+
+#: includes/class-wgpb-products-controller.php:281
+msgid "Product sale price."
+msgstr "Precio rebajado del producto"
+
+#: includes/class-wgpb-products-controller.php:276
+msgid "Product regular price."
+msgstr "Precio normal del producto."
+
+#: includes/class-wgpb-products-controller.php:270
+msgid "Current product price."
+msgstr "Precio actual del producto."
+
+#: includes/class-wgpb-products-controller.php:265
+msgid "Unique identifier."
+msgstr "Identificador único."
+
+#: includes/class-wgpb-products-controller.php:260
+msgid "Product short description."
+msgstr "Descripción corta del producto."
+
+#: includes/class-wgpb-products-controller.php:255
+msgid "Product description."
+msgstr "Descripción del producto."
+
+#: includes/class-wgpb-products-controller.php:248
+msgid "Catalog visibility."
+msgstr "Visibilidad en el catálogo."
+
+#: includes/class-wgpb-products-controller.php:242
+msgid "Featured product."
+msgstr "Producto destacado."
+
+#: includes/class-wgpb-products-controller.php:235
+msgid "Product status (post status)."
+msgstr "Estado del producto (estado de publicación)."
+
+#: includes/class-wgpb-products-controller.php:228
+msgid "Product type."
+msgstr "Tipo de producto."
+
+#: includes/class-wgpb-products-controller.php:222
+msgid "The date the product was last modified, as GMT."
+msgstr "La fecha en la que se modificó por última vez el producto, en GMT."
+
+#: includes/class-wgpb-products-controller.php:216
+msgid "The date the product was last modified, in the site's timezone."
+msgstr "La fecha en la que se modificó por última vez el producto, en la zona horaria del sitio."
+
+#: includes/class-wgpb-products-controller.php:210
+msgid "The date the product was created, as GMT."
+msgstr "La fecha en la que se creó el producto, en GMT."
+
+#: includes/class-wgpb-products-controller.php:204
+msgid "The date the product was created, in the site's timezone."
+msgstr "La fecha en la que se creó el producto, en la zona horaria del sitio"
+
+#: includes/class-wgpb-products-controller.php:197
+msgid "Product URL."
+msgstr "URL del producto."
+
+#: includes/class-wgpb-products-controller.php:192
+msgid "Product slug."
+msgstr "Slug del producto."
+
+#: includes/class-wgpb-products-controller.php:187
+msgid "Product name."
+msgstr "Nombre del producto."
+
+#: includes/class-wgpb-products-controller.php:181
+msgid "Unique identifier for the resource."
+msgstr "Identificador único del recurso."
+
+#: includes/class-wgpb-products-controller.php:125
+msgid "#%s is an invalid image ID."
+msgstr "#%s es un ID de imagen no válido."
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+msgid "WooCommerce Products block for the Gutenberg editor."
+msgstr "Bloque de productos WooCommerce para el editor Gutenberg."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+msgstr "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Gutenberg Products Block"
+msgstr "Bloque de productos WooCommerce para Gutenberg"
