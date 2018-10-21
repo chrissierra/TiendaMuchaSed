@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: WooCommerce demo were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://muchased.cl
+Data file = /var/www/html/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-content.xml
+Widget file = /var/www/html/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-widgets.wie
+Customizer file = /var/www/html/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Barra lateral derecha : 
+
+Filtrar productos por precio - Filter by price - Imported
+Carrito - Cart - Imported
+Búsqueda de productos - No Title - Imported
+Filtros de productos activos - Active filters - Imported
+Productos vistos recientemente - Recently Viewed Products - Imported
+Productos - Products - Imported
+
+Sección de cabecera : 
+
+Menú de Navegación - No Title - Imported
+
+Sección de menú : 
+
+Texto - About Us - Imported
+Menú de Navegación - Follow Us - Imported
+Productos - Just Arrived - Imported
+
+Área de widgets de la portada : 
+
+EM: Carrusel - No Title - Imported
+EM: Productos de WooCommerce - Discover Our - Imported
+EM: Contenido estático - Summer Is Comming - Imported
+EM: Productos de WooCommerce - On Sale - Imported
+EM: Categorías de WooCommerce - Our Categories - Imported
+EM: Entradas del blog - Latest News - Imported
+EM: Contenido estático - Have a Question? - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,70 @@
+2018-10-19T15:06:23+00:00 CRITICAL Uncaught Error: Call to a member function getApprovalLink() on null in /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php:517
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(494): WCPayPalPlus\WC\PayPalPlusGateway->get_approval_url()
+#1 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(481): WCPayPalPlus\WC\PayPalPlusGateway->form()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(31): WCPayPalPlus\WC\PayPalPlusGateway->payment_fields()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): wc_get_template('checkout/paymen...', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2099):
+
+2018-10-19T15:06:39+00:00 CRITICAL Uncaught Error: Call to a member function getApprovalLink() on null in /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php:517
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(494): WCPayPalPlus\WC\PayPalPlusGateway->get_approval_url()
+#1 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(481): WCPayPalPlus\WC\PayPalPlusGateway->form()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(31): WCPayPalPlus\WC\PayPalPlusGateway->payment_fields()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): wc_get_template('checkout/paymen...', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2099):
+
+2018-10-19T15:07:22+00:00 CRITICAL Uncaught Error: Call to a member function getApprovalLink() on null in /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php:517
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(494): WCPayPalPlus\WC\PayPalPlusGateway->get_approval_url()
+#1 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(481): WCPayPalPlus\WC\PayPalPlusGateway->form()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(31): WCPayPalPlus\WC\PayPalPlusGateway->payment_fields()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): wc_get_template('checkout/paymen...', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2099):
+
+2018-10-19T15:07:51+00:00 CRITICAL Uncaught Error: Call to a member function getApprovalLink() on null in /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php:517
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(494): WCPayPalPlus\WC\PayPalPlusGateway->get_approval_url()
+#1 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(481): WCPayPalPlus\WC\PayPalPlusGateway->form()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(31): WCPayPalPlus\WC\PayPalPlusGateway->payment_fields()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): wc_get_template('checkout/paymen...', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2099):
+
+2018-10-19T15:20:35+00:00 CRITICAL Uncaught Error: Call to a member function getApprovalLink() on null in /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php:517
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(494): WCPayPalPlus\WC\PayPalPlusGateway->get_approval_url()
+#1 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(481): WCPayPalPlus\WC\PayPalPlusGateway->form()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(31): WCPayPalPlus\WC\PayPalPlusGateway->payment_fields()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): wc_get_template('checkout/paymen...', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2099):
+
+2018-10-19T15:21:29+00:00 CRITICAL Uncaught Error: Call to a member function getApprovalLink() on null in /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php:517
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(494): WCPayPalPlus\WC\PayPalPlusGateway->get_approval_url()
+#1 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(481): WCPayPalPlus\WC\PayPalPlusGateway->form()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(31): WCPayPalPlus\WC\PayPalPlusGateway->payment_fields()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): wc_get_template('checkout/paymen...', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2099):
+
+2018-10-19T15:22:48+00:00 CRITICAL Uncaught Error: Call to a member function getApprovalLink() on null in /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php:517
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(494): WCPayPalPlus\WC\PayPalPlusGateway->get_approval_url()
+#1 /var/www/html/wp-content/plugins/woo-paypalplus/src/WC/PayPalPlusGateway.php(481): WCPayPalPlus\WC\PayPalPlusGateway->form()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment-method.php(31): WCPayPalPlus\WC\PayPalPlusGateway->payment_fields()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/templates/checkout/payment.php(30): wc_get_template('checkout/paymen...', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2099):
+
